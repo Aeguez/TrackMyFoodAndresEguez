@@ -1,0 +1,15 @@
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\bin\Debug\net6.0\TrackMyFoodAndresEguez.exe
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\bin\Debug\net6.0\TrackMyFoodAndresEguez.deps.json
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\bin\Debug\net6.0\TrackMyFoodAndresEguez.runtimeconfig.json
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\bin\Debug\net6.0\TrackMyFoodAndresEguez.dll
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\bin\Debug\net6.0\TrackMyFoodAndresEguez.pdb
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.csproj.AssemblyReference.cache
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.AssemblyInfoInputs.cache
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.AssemblyInfo.cs
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.csproj.CoreCompileInputs.cache
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.dll
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\refint\TrackMyFoodAndresEguez.dll
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.pdb
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\TrackMyFoodAndresEguez.genruntimeconfig.cache
+C:\repos\C#\TrackMyFood\TrackMyFoodAndresEguez\obj\Debug\net6.0\ref\TrackMyFoodAndresEguez.dll
